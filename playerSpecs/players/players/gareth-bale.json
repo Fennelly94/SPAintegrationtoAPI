@@ -1,0 +1,49 @@
+{
+    "nationality": "Welsh", 
+    "goals": {
+        "realmadridgoals": "66", 
+        "internationalgoals": "32"
+    }, 
+    "age": [
+        "27"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Right Winger"
+    }, 
+   
+   
+   
+    "description": "When Real Madrid orgionally signed Gareth he was the worlds more expensive player and cost them a crazy 100 million euros.Passing his team mate Cristiano as the worlds most expensive player. Since moving to the bernabeu he has had his ups and down but recently he has been outscoring his team mate Ronaldo and this year he looks like he may finsih Madrids top goal scorer if he continues from where he has left off.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "Gareth-Bale", 
+    "images": [
+	    "img/players/gareth-bale3.jpg",
+        "img/players/gareth-bale1.jpg",
+        "img/players/gareth-bale2.jpg"
+        
+        
+
+    ], 
+    "name": "Gareth Bale", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 74kg", 
+            "Height: 6ft 0inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

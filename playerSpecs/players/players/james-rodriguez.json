@@ -1,0 +1,49 @@
+{
+    "nationality": "Columbian", 
+    "goals": {
+        "realmadridgoals": "21", 
+        "internationalgoals": "23"
+    }, 
+    "age": [
+        "25"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Attacking Midfielder / Winger"
+    }, 
+   
+   
+   
+    "description": "James David Rodríguez Rubio (born 12 July 1991), known as James Rodríguez (American Spanish: [ˈxamez roˈðɾiɣes]), is a Colombian professional footballer who plays for Spanish club Real Madrid and captains the Colombia national team as an attacking midfielder or winger. James is commonly ranked as one of the best midfielders in the world.[1][2][3] He is praised for his technique, vision and playmaking skills, and often referred as the successor to his compatriot Carlos Valderrama. James became well known in Europe during his time at Porto, winning several trophies and individual awards during his three years at the club. In 2014, James moved from AS Monaco to Real Madrid for a transfer fee of €80 million, which beat the one set by Radamel Falcao and made him the most expensive Colombian football player and one of the most expensive players in football.[6] He started his international career with the Colombian under-20 team, with which he won the 2011 Toulon Tournament. He then captained the U-20 team during the 2011 FIFA U-20 World Cup. Due to his performance in the tournament, he was regularly called into the senior squad by the age of 20. He played in the 2014 FIFA World Cup where he won the Golden Boot as the top goalscorer and was part of the Cup's All Star Team.[7][8] He also represented his nation at the 2015 Copa América and the Copa América Centenario in 2016, winning a third-place medal in the latter tournament.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "james-rodriguez", 
+    "images": [
+	    "img/players/james1.jpg",
+		"img/players/james2.jpg",
+        "img/players/james3.jpg"
+        
+        
+
+    ], 
+    "name": "James Rodriguez", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 78 kg", 
+            "Height: 6ft 0inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

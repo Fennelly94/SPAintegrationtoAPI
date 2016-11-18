@@ -1,0 +1,48 @@
+{
+    "nationality": "Spanish", 
+    "goals": {
+        "realmadridgoals": "44", 
+        "internationalgoals": "10"
+    }, 
+    "age": [
+        "30"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Central Defender"
+    }, 
+   
+   
+   
+    "description": "Serigo Ramos is a centra defender for Real Madird. He has been one of the longest serving players for Madrid, signing as a teenager from Sevilla over 12 years ago, making 500 appearances for Madrid. He has been an ever presence in the back line of Madrid since his 30 million transfer in 2005.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "serigo-ramos", 
+    "images": [
+        "img/players/serigo-ramos1.jpg",
+        "img/players/serigo-ramos2.jpg", 
+        "img/players/serigo-ramos3.jpg"
+        
+
+    ], 
+    "name": "Serigo Ramos", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 75 kg", 
+            "Height: 6ft 0inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

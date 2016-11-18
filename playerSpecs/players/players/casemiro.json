@@ -1,0 +1,49 @@
+{
+    "nationality": "Brazilian", 
+    "goals": {
+        "realmadridgoals": "4", 
+        "internationalgoals": "3"
+    }, 
+    "age": [
+        "24"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Central Defensive Midfielder"
+    }, 
+   
+   
+   
+    "description": "Carlos Henrique José Francisco Venâncio Casimiro (born 23 February 1992), known as Casemiro, is a Brazilian professional footballer who plays for Spanish club Real Madrid and the Brazilian national team as a defensive midfielder.Formed at São Paulo, where he scored 11 goals in 112 official games, he moved to Real Madrid in 2013, and also spent a season on loan at Porto.A full international since 2011, Casemiro was in Brazil's squad at the 2015 and 2016 Copa América.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "casemiro", 
+    "images": [
+	    "img/players/casemiro1.jpg",
+		"img/players/casemiro2.jpg",
+        "img/players/casemiro3.jpg"
+        
+        
+
+    ], 
+    "name": "Casemiro", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 80kg", 
+            "Height: 6ft 0inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

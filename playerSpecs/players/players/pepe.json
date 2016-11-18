@@ -1,0 +1,48 @@
+{
+    "nationality": "Portuguese", 
+    "goals": {
+        "realmadridgoals": "44", 
+        "internationalgoals": "10"
+    }, 
+    "age": [
+        "33"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Central Defender"
+    }, 
+   
+   
+   
+    "description": "Képler Laveran Lima Ferreira, (born 26 February 1983), commonly known as Pepe (Brazilian Portuguese: [ˈpɛpi]), is a Portuguese professional footballer who plays for Spanish club Real Madrid and the Portuguese national team as a central defender. During his professional career he has played for Marítimo, Porto and Real Madrid, with individual and team success with the latter two clubs. A physically strong and tenacious defender, he is known for his aggressive challenges and for his violent behaviour on the pitch.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "pepe", 
+    "images": [
+        "img/players/pepe1.jpg",
+        "img/players/pepe2.jpg", 
+        "img/players/pepe3.jpg"
+        
+
+    ], 
+    "name": "Pepe", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 81 kg", 
+            "Height: 6ft 2inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

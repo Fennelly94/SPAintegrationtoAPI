@@ -1,0 +1,64 @@
+
+{
+    "nationality": "German", 
+    "goals": {
+        "realmadridgoals": "4", 
+        "internationalgoals": "34"
+    }, 
+    "age": [
+        "26"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Central Defensive Midfielder"
+    }, 
+    "camera": {
+        "features": [
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "5.0 megapixels"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 2.1", 
+        "cell": "T-mobile HSPA+ @ 2100/1900/AWS/850 MHz", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "802.11 b/g"
+    }, 
+    "description": "Toni Kross is a defensive midfilder for Madrid, His mission to help defend but he also has a great right foot and gets a lot of assists during the season. He signed for Madrid from Bayern Munich back in 2014 and since the has played a big part in Madrids thriump in europe winning a Champions League title with them already", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "nVidia Tegra T20", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB 2.0"
+    }, 
+    "id": "toni-kroos", 
+    "images": [
+        "img/players/toni-kroos1.jpg", 
+        "img/players/toni-kroos2.jpg",  
+        "img/players/toni-kroos3.jpg"
+       
+    ], 
+    "name": "Toni Kroos", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 78kg", 
+            "Height: 5ft 11inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

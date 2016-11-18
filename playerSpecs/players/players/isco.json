@@ -1,0 +1,48 @@
+{
+    "nationality": "Spanish", 
+    "goals": {
+        "realmadridgoals": "17", 
+        "internationalgoals": "31"
+    }, 
+    "age": [
+        "24"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Attacking Midfielder"
+    }, 
+   
+   
+   
+    "description": "Francisco Román Alarcón Suárez (born 21 April 1992), commonly known as Isco (Spanish pronunciation: [ˈisko]), is a Spanish professional footballer who plays for Real Madrid as an attacking midfielder.[1]He began his career at Valencia, playing mainly in its reserve team, before joining Málaga in 2011. His performances at Malaga earned him the Golden Boy award in 2012, and a €30 million move to Real Madrid in June 2013.Isco represented Spain at various youth levels, including at the 2012 Olympics, and made his senior international debut in 2013.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "isco", 
+    "images": [
+	    "img/players/isco2.jpg",
+        "img/players/isco1.jpg", 
+        "img/players/isco3.jpg"
+        
+
+    ], 
+    "name": "Isco", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 74 kg", 
+            "Height: 5ft 9inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

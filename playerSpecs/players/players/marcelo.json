@@ -1,0 +1,48 @@
+{
+    "nationality": "Brazilian", 
+    "goals": {
+        "realmadridgoals": "20", 
+        "internationalgoals": "6"
+    }, 
+    "age": [
+        "28"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Left Back"
+    }, 
+   
+   
+   
+    "description": "Marcelo Vieira da Silva Júnior (born 12 May 1988), known as Marcelo, is a Brazilian professional footballer who plays for Spanish club Real Madrid and the Brazil national team. He plays mainly at left back but can also operate as a left winger.He is frequently compared to Roberto Carlos, who himself said Marcelo was his heir, the world's best left back and that Marcelo possesses a better technical ability than me.After his breakthrough season, Marcelo was praised by football legends such as Paolo Maldini and Diego Maradona who also called him the best in his position", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "marcelo", 
+    "images": [
+        "img/players/marcelo1.jpg",
+        "img/players/marcelo2.jpg", 
+        "img/players/marcelo3.jpg"
+        
+
+    ], 
+    "name": "Marcelo", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 75 kg", 
+            "Height: 5ft 8inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

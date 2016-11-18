@@ -1,0 +1,48 @@
+{
+    "nationality": "Portugese", 
+    "goals": {
+        "realmadridgoals": "266", 
+        "internationalgoals": "66"
+    }, 
+    "age": [
+        "31"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Left Winger"
+    }, 
+   
+   
+   
+    "description": "Possibily the best player that has ever lived, Cristiano is definitely Madrids most valuable player and is a freekick spealist.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "Cristiano-Ronaldo", 
+    "images": [
+        "img/players/cristiano-ronaldo1.jpg",
+        "img/players/cristiano-ronaldo2.jpg", 
+        "img/players/cristiano-ronaldo3.jpg"
+        
+
+    ], 
+    "name": "Cristiano Ronaldo", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 88kg", 
+            "Height: 6ft 1inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

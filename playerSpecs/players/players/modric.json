@@ -1,0 +1,49 @@
+{
+    "nationality": "Portugese", 
+    "goals": {
+        "realmadridgoals": "8", 
+        "internationalgoals": "15"
+    }, 
+    "age": [
+        "31"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Central Midfielder"
+    }, 
+   
+   
+   
+    "description": "Luka Modrić (Croatian pronunciation: [lûːka mǒːdrit͡ɕ]; born 9 September 1985) is a Croatian professional footballer who plays for Spanish club Real Madrid and captains the Croatia national team.[3] Modrić plays mainly as a central midfielder but can also play as an attacking and defensive midfielder.Born in Zadar, Modrić was signed by Dinamo Zagreb in 2002 after showing promise with his hometown club's youth team. He continued his development in Zagreb before spells on loan to Zrinjski Mostar and Inter Zaprešić. He made his debut for Dinamo in 2005 and won three consecutive league titles and domestic cups with them, being named the Prva HNL Player of the Year in 2007. In 2008, he moved to Premier League club Tottenham Hotspur. Alongside Gareth Bale, he led the Spurs to their first UEFA Champions League appearance in almost 50 years, reaching the quarter-finals of the 2010–11 tournament.[4]After the 2011–12 season, he moved to Real Madrid for a fee of £33 million, where he became a key contributor under coach Carlo Ancelotti and helped the team to win La Décima. In 2016, he won his second Champions League with the squad and election to UEFA's Team of the Season, as well as receiving the La Liga Award for the Best Midfielder for the second time.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "modric", 
+    "images": [
+	    "img/players/modric2.jpg",
+		"img/players/modric3.jpg",
+        "img/players/modric1.jpg"
+        
+        
+
+    ], 
+    "name": "Luka Modric", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 65kg", 
+            "Height: 5ft 9inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

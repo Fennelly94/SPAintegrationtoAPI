@@ -1,0 +1,49 @@
+{
+    "nationality": "Costa Rican", 
+    "goals": {
+        "realmadridgoals": "0", 
+        "internationalgoals": "0"
+    }, 
+    "age": [
+        "29"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Goalkeper"
+    }, 
+   
+   
+   
+    "description": "Keylor Antonio Navas Gamboa (born 15 December 1986), known as Keylor Navas (American Spanish: [kei'lor anto'nio 'na.βas ɣambo'a]), is a Costa Rican professional footballer who plays for Spanish club Real Madrid and the Costa Rica national team as a goalkeeper.After starting out at Saprissa he moved to Albacete, and then to Levante in La Liga. Navas joined Real Madrid in 2014 for €10 million.Navas has played over 60 times for Costa Rica since making his debut in 2008. He has represented the country at two CONCACAF Gold Cups and the 2014 World Cup; his impressive performances helped the team reach the quarter-finals of the latter tournament.", 
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": "james-rodriguez", 
+    "images": [
+	    "img/players/navas1.jpg",
+		"img/players/navas2.jpg",
+        "img/players/navas3.jpg"
+        
+        
+
+    ], 
+    "name": "Keylor Navas", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 78 kg", 
+            "Height: 6ft 1inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

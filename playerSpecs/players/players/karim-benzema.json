@@ -1,0 +1,50 @@
+{
+    "nationality": "French", 
+    "goals": {
+        "realmadridgoals": "196", 
+        "internationalgoals": "48"
+    }, 
+    "age": [
+        "28"
+    ], 
+    "position": {
+        "standbyTime": "", 
+        "talkTime": "", 
+        "type": "Stricker"
+    }, 
+   
+   
+   
+    "description": "Karim Mostafa Benzema (born 19 December 1987) is a French professional footballer of Algerian descent who plays for Spanish club Real Madrid and the France national team as a striker.[3] He has been described as an immensely talented striker who is strong and powerful and a potent finisher from inside the box.Benzema was born in the city of Lyon and began his football career with local club Bron Terraillon. In 1996, he joined the biggest club in the city, Olympique Lyonnais, and subsequently came through the club's youth academy. Benzema made his professional debut in the 2004–05 season and appeared sporadically in his first three seasons as Lyon won three titles in that span. In the 2007–08 season, Benzema became a starter and had a breakthrough year scoring over 30 goals as Lyon won its seventh straight league title. For his performances, he was named the National Union of Professional Footballers (UNFP) Ligue 1 Player of the Year and named to the organization's Team of the Year. Benzema was also the league's top scorer and given the Bravo Award by Italian magazine Guerin Sportivo. After another season at Lyon, in July 2009, Benzema moved to Real Madrid in a transfer fee worth over €35 million ($50 million), and signed a six-year contract.",
+	
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "7.0 inches", 
+        "touchScreen": true
+    }, 
+    
+    
+    "id": [
+	"karim-benzema"
+	], 
+    "images": [
+        "img/players/karim-benzema1.jpg",
+        "img/players/karim-benzema2.jpg", 
+        "img/players/karim-benzema3.jpg"
+        
+
+    ], 
+    "name": "Karim Benzema", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "Weight: 79 kg", 
+            "Height: 6ft 2inchs" 
+            
+        ], 
+        "weight": "450.0 grams"
+    }, 
+    "storage": {
+        "flash": "16000MB", 
+        "ram": "512MB"
+    }
+}

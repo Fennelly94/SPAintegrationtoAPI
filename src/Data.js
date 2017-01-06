@@ -1,4 +1,4 @@
-    var AllPhones =  [ 
+    var AllPlayers =  [ 
             {
                 "age": 28, 
                 "id": "karim-benzema", 
@@ -89,4 +89,4 @@
                 "snippet": "Casemiro is a Brazilian international midfielder that plays for Real Madrid as a Defensive midfielder and is essentially the brickwall in front of the defense. He was on loan at Porto FC last year and impressed a lot and is now a regular starter for Madrid."
             }
         ] ; 
-    export default AllPhones;
+    export default AllPlayers;

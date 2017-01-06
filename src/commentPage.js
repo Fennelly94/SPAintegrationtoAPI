@@ -1,4 +1,4 @@
-    import React from 'react';
+     import React from 'react';
     import _ from 'lodash';
     import api from './test/stubAPI';
 	import { Link } from 'react-router'; 
@@ -35,7 +35,7 @@
 		   
              <form style={{marginTop: '30px'}}>
 			 
-                <u><b><h3>Ask the Real Madrid player a question?</h3></b></u>
+                <u><b><h3>Send a comment to the Real Madrid Fan Community Page here:</h3></b></u>
 				
 				<p>
 				
@@ -44,7 +44,7 @@
 				
                 <div className="form-group">
 				
-                  <input type="text" className="form-control" placeholder="Enter your question here?" value={this.state.query} onChange={this.handleQueryChange}>
+                  <input type="text" className="form-control" placeholder="Enter your comment here?" value={this.state.query} onChange={this.handleQueryChange}>
 				  
 				  </input>
 				</div>
@@ -119,7 +119,12 @@
 			<br>
 			</br>
 			  
-				 <b><u><Link to={'/players/'}>Go back to players list.</Link></u></b>
+				 <b><u><Link to={'/players/'}>Go back to home page.</Link></u></b>
+				 
+				 
+	
+
+
 				 
 				 
                   {items}
@@ -179,17 +184,18 @@
 	   
       componentDidMount: function() {
 		   
-		   var url = '/playerSpecs/players/players/' + this.props.params.id + '.json';
-		   console.log(url);   
-          request.get(
-             url, function(err, res) {
-                 window.resp = res;
-				 var json = JSON.parse(res.text);
-                if (this.isMounted()) {
-                    this.setState({ phone : json});
-          }
-        }.bind(this));
-      } ,
+		 request.get('http://0.0.0.0:4000/api/questions/' + this.props.params.questionId )
+          .end(function(error, res){
+            if (res) {
+              var json = JSON.parse(res.text);
+              localStorage.clear();
+              localStorage.setItem('question', JSON.stringify(json)) ;
+              this.setState( {}) ;                
+            } else {
+              console.log(error );
+            }
+          }.bind(this)); 
+      }, 
 	  
       render: function(){
 		  

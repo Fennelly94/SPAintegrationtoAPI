@@ -1,6 +1,8 @@
     body {
       padding-top: 20px;
     }
+	
+
 
     .players {
       list-style: none;
@@ -18,6 +20,30 @@
       height: 210px;
       width: 210px;
     }
+	
+
+
+
+div {
+    background-color: lightblue
+}
+
+
+h2 {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+h1 {
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+}
+
+
 
 
     .players li {

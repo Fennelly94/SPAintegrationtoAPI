@@ -4,7 +4,7 @@
 	import QuestionItem from './commentPage';
     import '../node_modules/bootstrap/dist/css/bootstrap.css';
 	import { Router, Route, IndexRoute, browserHistory } from 'react-router';
-	import PhoneDetail from './phoneDetail';
+	import PhoneDetail from './PhoneDetail';
 	import Phones from  './Data';
 	import './index.css';
 	
@@ -12,7 +12,8 @@
       render : function() {
         return (
           <div>
-            <h1><b>Current Real Madrid Football Squad</b></h1>
+            <h1><b>Real Madrid Football Team</b></h1>
+			
 			<p> </p>
             {this.props.children}
           </div>
@@ -23,7 +24,10 @@
       render : function() {
         return (
           <div>
-            <h2><b>Real Madrid Fan Community Questions Page</b></h2>
+            <h2><b>Real Madrid Fan Community Commenting Page</b></h2>
+			
+			
+			
 			<p> </p>
             {this.props.children}
           </div>
